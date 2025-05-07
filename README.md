@@ -10,3 +10,7 @@ To ensure secure transactions and trustworthiness, the platform employs:
 * Authentication modules for user verification and data protection.
 By prioritizing scalability, security, and usability, this platform stands as a testament to the power of technology in addressing real-world problems. It offers a glimpse into the future of agriculture, where innovation meets empowerment, paving the way for a more sustainable and equitable industry.
 Explore the potential of digital transformation in agriculture with Harvest Auction Hub—a project designed to make a difference.
+
+## Home page
+![Image](https://github.com/user-attachments/assets/d4ad11a9-ae0b-41ee-b86b-216c1e98fb8d) 
+
